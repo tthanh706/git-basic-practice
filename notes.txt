@@ -1,0 +1,2 @@
+Day la file ghi chu trong bai tap Git.
+Ghi chu moi sau khi hoc Git.
